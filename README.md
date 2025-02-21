@@ -1,7 +1,7 @@
 This project analyzes the relationship between crypto prices (BTC, ETH, ADA) and the S&P 500, incorporating quantitative easing (QE) and tightening (QT) policies by examining the U.S. Federal Reserve's total assets.
 
 Key methodologies include:
-SQL for data storage, cleaning, and analysis
+SQL (PostgreSQL) for data storage, cleaning, and analysis
 Power BI for visualization and insights
 Excel for data preprocessing and merging
 
