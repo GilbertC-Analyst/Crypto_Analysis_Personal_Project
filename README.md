@@ -47,3 +47,9 @@ Step 5: Insights & Findings
    Declines in BTC & ETH prices during Fed tightening periods (2018, 2022)
 5. Crypto vs. S&P 500
    Weak correlation in bull markets, stronger correlation in downturns
+
+Data Source:
+https://coinmarketcap.com/currencies/bitcoin/historical-data/
+https://coinmarketcap.com/currencies/ethereum/historical-data/
+https://coinmarketcap.com/currencies/cardano/historical-data/
+https://www.federalreserve.gov/monetarypolicy/bst_recenttrends_accessible.htm
