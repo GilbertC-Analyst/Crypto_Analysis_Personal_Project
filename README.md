@@ -49,7 +49,7 @@ Step 5: Insights & Findings
    Weak correlation in bull markets, stronger correlation in downturns
 
 Data Source:
-https://coinmarketcap.com/currencies/bitcoin/historical-data/
-https://coinmarketcap.com/currencies/ethereum/historical-data/
-https://coinmarketcap.com/currencies/cardano/historical-data/
-https://www.federalreserve.gov/monetarypolicy/bst_recenttrends_accessible.htm
+https://coinmarketcap.com/currencies/bitcoin/historical-data/ 
+https://coinmarketcap.com/currencies/ethereum/historical-data/ 
+https://coinmarketcap.com/currencies/cardano/historical-data/ 
+https://www.federalreserve.gov/monetarypolicy/bst_recenttrends_accessible.htm 
